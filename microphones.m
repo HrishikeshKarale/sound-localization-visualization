@@ -123,7 +123,7 @@ while a>0
                     x.direction = 'BACK';
                 end
             end
-            savejson('',x,'C:\Users\tanmaypc\Documents\matlab-mean-demo\data\matlabData.json');
+            savejson('',x,'C:\Users\tanmaypc\Documents\722\sound-localization-visualization\data\matlabData.json');
         end
     end
 end
